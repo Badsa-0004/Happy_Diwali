@@ -20,7 +20,7 @@ window.addEventListener('resize', resize);
 resize();
 
 // Firework sound
-const fireworkSound = new Audio('explosion.mp3');
+const fireworkSound = new Audio('624414__milankovanda__firework-single-shot-2.wav');
 fireworkSound.volume = 0.3;
 
 const gravity = 0.05;
